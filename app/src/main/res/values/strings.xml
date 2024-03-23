@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">parcial-practico-two</string>
+    <string name="create">Crear Nota</string>
+    <string name="titulo">Titulo</string>
+    <string name="contenido">Contenido</string>
+    <string name="btguardar">Guardar</string>
+    <string name="update">Actualizar Nota</string>
+    <string name="btactualizar">Actualizar</string>
+    <string name="bteditar">Editar</string>
+    <string name="bteliminar">Eliminar</string>
+    <string name="tvnotes">Nueva nota</string>
+    <string name="fontsize">Fontsize</string>
+    <string name="visualizacion">Visualizacion</string>
+    <string name="regresar">Regresar</string>
 </resources>
